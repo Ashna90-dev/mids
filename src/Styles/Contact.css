@@ -1,0 +1,18 @@
+section{
+    padding-left: 3rem;
+}
+
+
+
+#div-3{
+    display: flex;
+    /* padding-left: 5%; */
+   
+}
+#div-3 i{
+    font-size: 20px;
+    margin-left: 50px;
+}
+#div-3 a{
+    color: black;
+}
